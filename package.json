@@ -1,0 +1,23 @@
+{
+  "name": "eris-cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skillz4Killz/eris-cc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skillz4Killz/eris-cc/issues"
+  },
+  "homepage": "https://github.com/Skillz4Killz/eris-cc#readme",
+  "dependencies": {
+    "eris": "^0.15.1"
+  }
+}
